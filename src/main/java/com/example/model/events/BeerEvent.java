@@ -1,6 +1,6 @@
-package com.example.common.events;
+package com.example.model.events;
 
-import com.example.msscbeerservice.web.model.BeerDto;
+import com.example.model.BeerDto;
 import lombok.*;
 
 import java.io.Serializable;

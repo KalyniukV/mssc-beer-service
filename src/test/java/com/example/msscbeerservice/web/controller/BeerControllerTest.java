@@ -2,8 +2,8 @@ package com.example.msscbeerservice.web.controller;
 
 import com.example.msscbeerservice.bootstrap.BeerLoader;
 import com.example.msscbeerservice.services.BeerService;
-import com.example.msscbeerservice.web.model.BeerDto;
-import com.example.msscbeerservice.web.model.BeerStyleEnum;
+import com.example.model.BeerDto;
+import com.example.model.BeerStyleEnum;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

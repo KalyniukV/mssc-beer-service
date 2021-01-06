@@ -1,4 +1,4 @@
-package com.example.msscbeerservice.web.model;
+package com.example.model;
 
 public enum BeerStyleEnum {
     LAGER,

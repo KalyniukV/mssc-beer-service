@@ -2,7 +2,7 @@ package com.example.msscbeerservice.services.brewing;
 
 import com.example.msscbeerservice.config.JmsConfig;
 import com.example.msscbeerservice.domain.Beer;
-import com.example.common.events.BrewBeerEvent;
+import com.example.model.events.BrewBeerEvent;
 import com.example.msscbeerservice.repositories.BeerRepository;
 import com.example.msscbeerservice.services.inventoiry.BeerInventoryService;
 import com.example.msscbeerservice.web.mappers.BeerMapper;
