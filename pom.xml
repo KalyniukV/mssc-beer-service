@@ -150,6 +150,12 @@
             <version>2.2.8.RELEASE</version>
         </dependency>
 
+        <dependency>
+            <groupId>net.logstash.logback</groupId>
+            <artifactId>logstash-logback-encoder</artifactId>
+            <version>6.3</version>
+        </dependency>
+
     </dependencies>
 
     <dependencyManagement>
